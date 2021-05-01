@@ -5,4 +5,4 @@ STEPS::
 1)Download the given dataset
 2)Install Jupyter notebook and open the ipynb file
 3)Install pandas and numpy libraries
-4)Run the code shell by shell
+4)Run the code shell by shell.
